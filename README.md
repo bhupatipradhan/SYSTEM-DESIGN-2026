@@ -546,7 +546,7 @@ Think at scale. Design systems that handle millions of users, stay available, an
 | System | ByteByteGo | Gaurav Sen | Written Guide |
 |--------|-----------|------------|---------------|
 | **URL Shortener** | https://www.youtube.com/watch?v=fMZMm_0ZhK4 | https://www.youtube.com/watch?v=JQDHz72OA3c | https://systemdesign.one/url-shortening-system-design/ |
-| **Instagram** | https://www.youtube.com/watch?v=VvZf_lZAZyA | https://www.youtube.com/watch?v=QmX2NPkJTKg | https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG |
+| **Instagram** | https://www.youtube.com/watch?v=VvZf_lZAZyA | https://www.youtube.com/watch?v=QmX2NPkJTKg | https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram |
 | **Twitter Timeline** | https://www.youtube.com/watch?v=wYk0MImc9Mk | https://www.youtube.com/watch?v=KmAyPMe0QP4 | https://systemdesign.one/twitter-timeline-system-design/ |
 | **WhatsApp / Chat** | https://www.youtube.com/watch?v=vvhC64hQZMk | https://www.youtube.com/watch?v=vvhC64hQZMk | https://systemdesign.one/whatsapp-system-design/ |
 | **YouTube** | https://www.youtube.com/watch?v=mp-OSK6jm1c | https://www.youtube.com/watch?v=jPKTo1iGQiE | https://systemdesign.one/youtube-system-design/ |
@@ -572,7 +572,7 @@ Think at scale. Design systems that handle millions of users, stay available, an
 | Tech Dummies – Narendra L | YouTube | https://www.youtube.com/@TechDummiesNarendraL |
 | systemdesign.one | Website | https://systemdesign.one |
 | High Scalability | Website | http://highscalability.com |
-| Grokking System Design (Educative) | Course | https://www.educative.io/courses/grokking-the-system-design-interview |
+| Grokking System Design (Design Gurus) | Course | https://www.designgurus.io/course/grokking-the-system-design-interview |
 
 ---
 
@@ -678,8 +678,8 @@ Synthesize everything. Be able to whiteboard any system confidently in 45 minute
 | Resource | Type | Link |
 |----------|------|------|
 | System Design Interview — Alex Xu | Book ⭐ | https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF |
-| Grokking System Design Interview | Course | https://www.educative.io/courses/grokking-the-system-design-interview |
-| Grokking OOD Interview | Course | https://www.educative.io/courses/grokking-the-object-oriented-design-interview |
+| Grokking System Design Interview | Course | https://www.designgurus.io/course/grokking-the-system-design-interview |
+| Grokking OOD Interview | Course | https://www.designgurus.io/course/grokking-the-object-oriented-design-interview |
 | Exponent — Mock Interviews | Website | https://www.tryexponent.com |
 | InterviewBit — System Design | Website | https://www.interviewbit.com/system-design-interview-questions/ |
 | NeetCode — System Design | YouTube | https://www.youtube.com/@NeetCodeIO |
